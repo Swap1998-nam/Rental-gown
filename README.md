@@ -52,9 +52,14 @@ Simply open `index.html` in your browser.
 Example:
 
 ```md
-
 ```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc4e7e9e-98db-491a-b944-f1ecdea4fbfd" />
+
+---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb8b6b15-da46-4b88-85f4-82c66cef7172" />
+
+---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/83bd79a3-240d-4edb-994d-fc23e1c979d3" />
 
 ---
 
