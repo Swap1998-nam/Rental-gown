@@ -51,8 +51,6 @@ Simply open `index.html` in your browser.
 
 Example:
 
-```md
-```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc4e7e9e-98db-491a-b944-f1ecdea4fbfd" />
 
 ---
